@@ -1,58 +1,67 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLz79C7LMDcmoH/giphy.gif" width="40" alt="developer gif">
-  <h1>Hi, I'm ROHITH ROY</h1>
-  <h3>Python Full-Stack & Android Developer | AI Enthusiast</h3>
-  <p>Building clean, scalable applications with strong focus on MVVM architecture, intelligent systems, and production-ready code.</p>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-  <p>
-    <a href="https://www.linkedin.com/in/rohith-roy393"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:rohith.roy393@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/starChaserr"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Kerala,%20India-FF6B00?style=for-the-badge&logo=google-maps&logoColor=white" />
-  </p>
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ollama" height="60" alt="ollama logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tkinter" height="60" alt="tkinter logo" />
 </div>
 
----
-
-### 🚀 Professional Summary
-BCA graduate and Python developer focused on building full-stack applications, Android apps, and AI-powered tools. Strong foundation in MVVM architecture, Firebase integration, NLP models, and clean, maintainable code practices. Passionate about creating intuitive user experiences and efficient back-end systems.
-
-### 🛠️ Tech Stack & Tools
-
-| Category          | Icons                                                                 | Technologies |
-|-------------------|-----------------------------------------------------------------------|--------------|
-| **Languages**     | <img src="https://skillicons.dev/icons?i=python,java" />            | Python, Java |
-| **Backend & Web** | <img src="https://skillicons.dev/icons?i=django,flask" />           | Django, Flask, Pandas, NLP, Tkinter |
-| **Mobile**        | <img src="https://skillicons.dev/icons?i=android,firebase" />       | Android (MVVM), Firebase, SQLite |
-| **Tools & Others**| <img src="https://skillicons.dev/icons?i=git" />                    | OOP, Git, REST APIs, Deployment basics |
-
-### 📱 Featured Projects
-
-**Ultron – AI Chatbot & GUI Application**  
-[starChaserr/Ultron](https://github.com/starChaserr/Ultron) • **Python**  
-Fully modular desktop AI chatbot featuring a custom Python GUI, intent-based NLP model, and trained neural network for intelligent conversations. Clean separation of model logic, data handling, and UI components.
-
-**Fury Finance Assistant – Android App**  
-[starChaserr/Fury](https://github.com/starChaserr/Fury) • **Java**  
-Personal finance tracking application built with MVVM architecture. Integrated local storage and Firebase for real-time data synchronization, providing expense insights and smarter financial decision support.
-
-**Public Repository – Anonymous Image Board**  
-[starChaserr/Public-Repository](https://github.com/starChaserr/Public-Repository) • **Java**  
-Privacy-focused multimedia and text sharing platform with dynamic threads. Built using MVVM architecture and Firebase, emphasizing open communication and user privacy.
-
-**Prozy – YouTube Video & MP3 Downloader**  
-[starChaserr/Prozy](https://github.com/starChaserr/Prozy) • **Java**  
-Modular Android application demonstrating clean architecture and third-party module integration for YouTube video downloads and MP3 conversion.
-
----
-
-**Certifications**  
-- Python + AI Skills to ace Data Roles – Coding Ninjas (11/2025)  
-- Python Professional - Intermediate – GAMA (UST) (11/2025)
-
----
-
+###
 <div align="center">
-  <i>Open to junior software engineering opportunities in Python, Android, or full-stack roles.</i><br>
-  Let's connect and build something impactful.
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=starChaserr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=starChaserr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/starChaserr/starChaserr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/starChaserr/starChaserr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/starChaserr/starChaserr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+### 👨‍💻 About Me
+
+I'm **Rohith Roy** (starChaserr), a Python Full-Stack & Android Developer with a passion for building intelligent and reliable applications.
+
+I focus on clean architecture, MVVM patterns, modular design, and integrating AI into practical tools.
+
+### 🔥 Featured Projects
+
+- **Pepper Assistant** — Local-first AI chatbot powered by Ollama (phi3.5). Features tool calling, hallucination-resistant responses, hybrid knowledge base, and a custom Tkinter UI. (Private - Under Development)
+- **Ultron** — Modular desktop AI chatbot with custom GUI, intent-based NLP, and neural network.
+- **Fury** — Android personal finance tracker built with MVVM and Firebase.
+- **Public-Repository** — Privacy-focused Android platform for anonymous multimedia and text sharing.
+- **Prozy** — Clean Android YouTube video & MP3 downloader.
+
+### 🛠️ Tech Stack
+
+- **Languages**: Python, Java, Kotlin
+- **AI & Tools**: Ollama, Local LLMs, Tkinter, NLP
+- **Mobile**: Android (MVVM), Firebase, SQLite
+- **Backend**: Django, Flask
+- **Other**: Git, REST APIs, Vector Embeddings
+
+Always learning and iterating on better, more private AI experiences.
+
+Feel free to check out my repositories!
