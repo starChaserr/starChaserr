@@ -46,10 +46,6 @@ Modular Android application demonstrating clean architecture and third-party mod
 
 ---
 
-**Education**  
-- **Python Full-Stack Development** – Quest Innovative Solutions (05/2022 – 03/2023)  
-- **Bachelors in Computer Applications** – PGM College, Kangazha (09/2019 – 06/2022)  
-
 **Certifications**  
 - Python + AI Skills to ace Data Roles – Coding Ninjas (11/2025)  
 - Python Professional - Intermediate – GAMA (UST) (11/2025)
